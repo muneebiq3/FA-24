@@ -1,7 +1,7 @@
 
 # Semester Course Repository
 
-Welcome to the repository containing course content for BCS-5 semester! This repository is designed to organize and provide easy access to course materials.
+Welcome to the repository containing course content for FA-24! This repository is designed to organize and provide easy access to course materials.
 
 ## Folder Structure
 
