@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex; 
+    align-items: center; 
+    height: 120px;
+    width: 800px;
+    margin-top: 50px;
+    border: 5px solid black; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.image {
+    flex: 0 0 auto; 
+    margin-right: 20px; 
+}
+
+.textcontainer {
+    background-color: black;
+    color: white; 
+    padding: 10px; 
+    border-radius: 5px; 
+    margin-left: 90px;
+}
+
+.container2 {
+    margin-top: 20px;
+    width: 800px;
+    border: 5px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    padding: 20px; 
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; 
+}
+
+label {
+    flex: 0 0 200px; 
+    margin-right: 10px;
+}
+
+input[type="text"],
+input[type="email"] {
+    flex: 1; 
+    padding: 5px;
+    border: none; 
+    border-bottom: 1px solid #ccc; 
+    outline: none; 
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus {
+    border-bottom: 1px solid #4CAF50; 
+}
+
+.campus-options {
+    display: flex;
+    flex-wrap: wrap; 
+    margin-left: 10px; 
+}
+
+.campus-options label {
+    margin-right: 15px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; 
+}
+
+button:hover {
+    background-color: #45a049;
+}
+.nic-inputs {
+    display: flex; 
+    gap: 5px;
+}
+
+.nic-inputs input {
+    width: 30px; 
+    text-align: center; 
+    padding: 5px;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+}
+
+.nic-inputs input:focus {
+    border-color: #4CAF50; 
+}
+.container3{
+    height:90px;
+    width: 130px;
+    background-color: white;
+    margin-left: 170px;
+    border: 2px solid black; 
+    
+}
+table, th, td {
+    border:1px solid black;
+  }

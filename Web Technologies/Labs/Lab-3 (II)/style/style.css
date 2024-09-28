@@ -1,0 +1,559 @@
+header, .section-1 {
+
+  background: linear-gradient(90deg, #082134, #002B45, #002B45);
+
+}
+
+.menu-btn, .heading, .apple-header-button, .mouse-icon, .footer-apple-button {
+
+  cursor: pointer;
+
+}
+
+.sidebar-menu-items-color {
+
+  color: #353535;
+
+}
+
+.sidebar-menu-items-color:hover {
+
+  text-decoration: underline;
+
+}
+
+.apple-header-button {
+
+  height: 40px;
+
+}
+
+.section-1 {
+
+  height: 100vh;
+
+}
+
+.private-social-text, .college-life-text{
+
+  font-size: 45px;
+
+}
+
+.college-life-text {
+
+  color: #4AA162;
+
+}
+
+.line {
+
+  width: 250px;
+  
+}
+
+.signin-btn, .join-btn {
+
+  background-color: #3A814E;
+  
+}
+
+.signin-btn{
+
+  width: 80px;
+  font-size: 20px;
+  height: 40px;
+}
+
+.join-btn{
+
+  width: 180px;
+  font-size: 20px;
+
+}
+
+.btn-success:hover {
+
+  text-decoration: underline;
+
+}
+
+.waiting-list, .sign-in {
+
+  font-size: 32px;
+
+}
+
+.mouse-icon {
+
+  animation: vibrate 2s linear infinite;
+
+}
+
+@keyframes vibrate {
+
+  0% {
+    transform: translateY(0);
+  }
+  25% {
+    transform: translateY(70%);
+  }
+  50% {
+    transform: translateY(0);
+  }
+  75% {
+    transform: translateY(70%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+
+}
+
+.outer-1{
+
+  border: 1px solid #000;
+  height: 350px;
+  width: 350px;
+  
+}
+.outer-2{
+  
+  border: 1px solid #000;
+  height: 250px;
+  width: 250px;
+  
+}
+.outer-3{
+  
+  border: 1px solid #000;
+  height: 150px;
+  width: 150px;
+  
+}
+
+.outer-4{
+  
+  background-color: #082134;
+  height: 50px;
+  width: 50px;
+    
+
+}
+.line-1, .line-2, .line-3, .line-4, .line-5, .line-6, .line-7,
+.line-8, .line-9, .line-10, .line-11, .line-12, .line-13 {
+  
+  height: 1px;
+  background-color: #000;
+  
+}
+  
+.line-2, .line-4, .line-6, .line-8, .line-10, .line-12 {
+  
+  width: 150px;
+  transform: translateX(-67%);
+  
+}
+  
+.line-3, .line-7, .line-11 {
+  
+  width: 50px;
+  transform: translateX(-100%);
+  
+}
+  
+.line-1, .line-5, .line-9, .line-13 {
+  
+  width: 100px;
+  transform: translateX(-75%);
+  
+}
+  
+.line-1 {
+  
+  rotate: 35deg;
+  
+}
+
+.line-2 {
+  
+  rotate: 65deg;
+  
+}
+
+.line-3 {
+  
+  rotate: 85deg;
+
+}
+
+.line-4 {
+  
+  rotate: 100deg;
+  
+}
+
+.line-5 {
+    
+  rotate: 130deg;
+  
+}
+
+.line-6 {
+  
+  rotate: 160deg;
+  
+}
+
+.line-7 {
+  
+  rotate: 175deg;
+  
+}
+
+.line-8 {
+  
+  rotate: 195deg;
+  
+}
+
+.line-9 {
+    
+  rotate: 235deg;
+  
+}
+
+.line-10 {
+  
+  rotate: 265deg;
+  
+}
+
+.line-11 {
+  
+  rotate: 290deg;
+  
+  }
+
+.line-12 {
+  
+  rotate: 310deg;
+  
+}
+
+.line-13 {
+  
+  rotate: 350deg;
+    
+}
+
+.main-image img{
+
+  height: 30px;
+  width: 30px;
+
+}
+
+.image-1, .image-2, .image-3, .image-4, .image-5, 
+.image-6, .image-7, .image-8, .image-9, .image-10, 
+.image-11, .image-12, .image-13 {
+
+  z-index: 1;
+
+}
+
+.check-image-1, .check-image-3, .check-image-4, 
+.check-image-6, .check-image-7, .check-image-9, 
+.check-image-10, .check-image-12, .check-image-13 {
+
+  z-index: 2;
+
+}
+
+.check-image-1 {
+
+  transform: translate(-590%, -650%);
+
+}
+
+.check-image-3 {
+
+  transform: translate(300%, -690%);
+
+}
+
+.check-image-4 {
+
+  transform: translate(590%, -350%);
+
+}
+
+.check-image-6 {
+
+  transform: translate(700%, 20%);
+
+}
+
+.check-image-7 {
+
+  transform: translate(1430%, 230%);
+
+}
+
+.check-image-9 {
+
+  transform: translate(190%, 800%);
+
+}
+
+.check-image-10 {
+
+  transform: translate(-120%, 350%);
+
+}
+
+.check-image-12 {
+
+  transform: translate(-1130%, 130%);
+
+}
+
+.check-image-13 {
+
+  transform: translate(-540%, -240%);
+
+}
+
+.image-1 {
+
+  transform: translate(-240%, -540%);
+
+}
+
+.image-2 {
+
+  transform: translate(-20%, -200%);
+
+}
+
+.image-3 {
+
+  transform: translate(70%, -400%);
+
+}
+
+.image-4 {
+
+  transform: translate(130%, -170%);
+
+}
+
+.image-5 {
+
+  transform: translate(450%, -170%);
+
+}
+
+.image-6 {
+
+  transform: translate(180%, -20%);
+
+}
+
+.image-7 {
+
+  transform: translate(500%, 120%);
+
+}
+
+.image-8 {
+
+  transform: translate(120%, 170%);
+
+}
+.image-9 {
+
+  transform: translate(35%, 385%);
+
+}
+
+.image-10 {
+
+  transform: translate(-60%, 170%);
+
+}
+
+.image-11 {
+
+  transform: translate(-280%, 340%);
+
+}
+
+.image-12 {
+
+  transform: translate(-410%, 70%);
+
+}
+
+.image-13 {
+
+  transform: translate(-180%, -130%);
+
+}
+
+.join-btn, .signin-btn, .section-3, .section-4 {
+
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.button-container {
+
+  top: 50%;
+  transform: translate(-210%, -40%);
+  height: 300px;
+  display: none;
+
+}
+
+.section-3.active .button-container {
+
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+
+}
+
+.section {
+
+  min-height: 100vh; 
+
+}
+
+.image, .story  {
+
+  opacity: 0;
+  height: 500px;
+  transform: translate(250%, 40%);
+  top: calc(30% - 250px); 
+
+}
+
+.image  {
+
+  position: fixed;
+  
+}
+
+.story {
+
+  transform: translate(245%, -43%);
+  top: calc(30% - 150px); 
+  height: 500px;
+  width: 240px;
+
+}
+
+.section.active .story, .section.active .image {
+
+  opacity: 1;
+
+}
+
+@media (max-width: 575px) {
+
+  .image, .story {
+
+    opacity: 1;
+    position: relative;
+
+  }
+
+  .image {
+
+    transform: translateY(10%);
+
+  }
+
+  .story {
+
+    transform: translateY(-10%);
+
+  }
+}
+
+
+@media (max-width: 991px) and (min-width: 576px) {
+
+  .image, .story {
+
+    opacity: 0;
+
+  }
+
+  .image {
+
+      transform: translate(130%, 20%);
+
+  }
+
+  .story {
+
+    transform: translate(130%, -90%);
+
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 992px) {
+
+  .image, .story {
+
+    opacity: 0;
+
+  }
+
+  .image {
+
+      transform: translate(200%, 20%);
+
+  }
+
+  .story {
+
+    transform: translate(195%, -60%);
+
+  }
+}
+
+.footer-items, .no-hover-privacy-policy {
+  
+  color: #646464;
+  text-decoration: none;
+
+}
+
+.footer-items:hover{
+
+  color: #646464;
+  text-decoration: underline;
+  
+}
+
+.footer-apple-button {
+
+  height: 45px;
+
+}
+
+ ul {
+
+  font-size: 20px;
+
+}
+
+.section-2, .footer-section-2 {
+
+  background-color: #F9F9F9;
+
+}
