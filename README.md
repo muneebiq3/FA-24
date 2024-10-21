@@ -64,6 +64,8 @@ FA-24/
 │   │   │
 │   │   ├── Assignment 1/
 │   │   │   │
+│   │   │   ├── A1-IS.pdf
+│   │   │   │
 │   │   │   └── Information Security Assignment 1.pdf
 │   │   │    
 │   │   └── Assignment 2/
@@ -72,7 +74,9 @@ FA-24/
 │   │       │
 │   │       ├── 2.jpg
 │   │       │
-│   │       └── 3.jpg
+│   │       ├── 3.jpg
+│   │       │
+│   │       └── A2-IS.pdf
 │   │
 │   ├── Lectures/
 │   │   │
