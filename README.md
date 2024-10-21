@@ -78,6 +78,12 @@ FA-24/
 │   │   │
 │   │   ├── IS chp 1.pptx
 │   │   │
+│   │   ├── IS chp 2.pptx
+│   │   │
+│   │   ├── IS chp 3.pptx
+│   │   │
+│   │   ├── IS chp 5.pptx
+│   │   │
 │   │   └── Lecture-Slides-Week2-Website-Frontend-CSS.pdf
 │   │
 │   ├── Misc/
