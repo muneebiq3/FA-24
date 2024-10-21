@@ -24,7 +24,9 @@ FA-24/
 │       │
 │       ├── FA-23 Final(3)
 │       │
-│       └── FA-23 Final(4)
+│       ├── FA-23 Final(4)
+│       │
+│       └── FA-23 Final(5)
 │
 ├── Design and Analysis of Algorithms/
 │   │    
@@ -36,9 +38,17 @@ FA-24/
 │   │
 │   ├── Assignments/
 │   │   │
-│   │   └── Assignment 1/
-│   │      │
-│   │      └── Information Security Assignment 1
+│   │   ├── Assignment 1/
+│   │   │   │
+│   │   │   └── Information Security Assignment 1
+│   │   │    
+│   │   └── Assignment 2/
+│   │       │
+│   │       ├── 1
+│   │       │
+│   │       ├── 2
+│   │       │
+│   │       └── 3
 │   │
 │   ├── Lectures/
 │   │   │
@@ -90,17 +100,21 @@ FA-24/
 │   │
 │   ├── Assignments/
 │   │   │
-│   │   └── Assignment 1/
+│   │   ├── Assignment 1/
+│   │   │   │
+│   │   │   ├── Assignment 1 obj
+│   │   │   │
+│   │   │   ├── page#1
+│   │   │   │
+│   │   │   ├── page#2
+│   │   │   │
+│   │   │   ├── page#3
+│   │   │   │
+│   │   │   └── page#4
+│   │   │    
+│   │   └── Assignment 2/
 │   │       │
-│   │       ├── Assignment 1 obj
-│   │       │
-│   │       ├── page#1
-│   │       │
-│   │       ├── page#2
-│   │       │
-│   │       ├── page#3
-│   │       │
-│   │       └── page#4
+│   │       └── Assignment 2 ( Theory of Automata)
 │   │
 │   ├── Lectures/
 │   │   │
@@ -152,287 +166,175 @@ FA-24/
     │       │   │
     │       │   └── SP22-BCS-030(Assignment-2)
     │       │
-    │       └── Task 3/
-    │           │
-    │           ├── Faculty_Job_Application_Form_130415
-    │           │
-    │           ├── NON_faculty_job_application_form
-    │           │
-    │           ├── SP22-BCS-030(Assignment-3)
-    │           │
-    │           ├── unknown_2024.09.26-22.55
-    │           │
-    │           └── unknown_2024.09.26-22.57
-    │
-    ├── Labs/
-    │   │
-    │   ├── CSC-336_WT Lab manualsp22_v3.1
-    │   │
-    │   ├── Lab-1/
-    │   │   │
-    │   │   └── lab-1.html
-    │   │
-    │   ├── Lab-2/
-    │   │   │
-    │   │   ├── html/
-    │   │   │   │
-    │   │   │   └── lab-2.html
-    │   │   │
-    │   │   ├── Images/
-    │   │   │   │
-    │   │   │   ├── icons/
-    │   │   │   │   │
-    │   │   │   │   ├── Arrow Icon.png
-    │   │   │   │   │
-    │   │   │   │   ├── Chat.png
-    │   │   │   │   │
-    │   │   │   │   ├── Community.png
-    │   │   │   │   │
-    │   │   │   │   ├── Events.png
-    │   │   │   │   │
-    │   │   │   │   ├── favicon.icon
-    │   │   │   │   │
-    │   │   │   │   ├── Globe.png
-    │   │   │   │   │
-    │   │   │   │   ├── menu-button.png
-    │   │   │   │   │
-    │   │   │   │   ├── Mouse.png
-    │   │   │   │   │
-    │   │   │   │   ├── Post icon.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Chat.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Community.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Events.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Post.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Story.png
-    │   │   │   │   │
-    │   │   │   │   ├── sidebar-close-button.svg
-    │   │   │   │   │
-    │   │   │   │   └── Story icon.png
-    │   │   │   │
-    │   │   │   └── noticons
-    │   │   │       │
-    │   │   │       ├── apple-button.svg
-    │   │   │       │
-    │   │   │       ├── apple-button-footer.svg
-    │   │   │       │
-    │   │   │       ├── apple-button-sidebar-footer.svg
-    │   │   │       │
-    │   │   │       ├── Avatar 16 1.png
-    │   │   │       │   
-    │   │   │       ├── Birthday.png
-    │   │   │       │
-    │   │   │       ├── Cafe.png
-    │   │   │       │
-    │   │   │       ├── Chat Images.png
-    │   │   │       │
-    │   │   │       ├── check-image-1.png
-    │   │   │       │
-    │   │   │       ├── check-image-3.icon
-    │   │   │       │
-    │   │   │       ├── check-image-4.png
-    │   │   │       │
-    │   │   │       ├── check-image-6.png
-    │   │   │       │
-    │   │   │       ├── check-image-7.png
-    │   │   │       │
-    │   │   │       ├── check-image-9.png
-    │   │   │       │
-    │   │   │       ├── check-image-10.png
-    │   │   │       │
-    │   │   │       ├── check-image-12.png
-    │   │   │       │
-    │   │   │       ├── check-image-13.png
-    │   │   │       │
-    │   │   │       ├── edyou-footer.svg
-    │   │   │       │
-    │   │   │       ├── edyou-main-heading.png
-    │   │   │       │
-    │   │   │       ├── edyou-sidebar.svg
-    │   │   │       │
-    │   │   │       ├── Group 357.png
-    │   │   │       │
-    │   │   │       ├── Group 493.png
-    │   │   │       │
-    │   │   │       ├── Group 494.png
-    │   │   │       │
-    │   │   │       ├── Group 495.png
-    │   │   │       │
-    │   │   │       ├── Group 497.png
-    │   │   │       │
-    │   │   │       ├── image 21.png
-    │   │   │       │
-    │   │   │       ├── image 22.png
-    │   │   │       │
-    │   │   │       ├── image 23.png
-    │   │   │       │
-    │   │   │       ├── line_home.png
-    │   │   │       │
-    │   │   │       ├── Mobile logo Style.png
-    │   │   │       │
-    │   │   │       ├── Post.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 163.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 165.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 167.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 168.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 169.png
-    │   │   │       │
-    │   │   │       └── Story.png
-    │   │   │
-    │   │   ├── scripts/
-    │   │   │   │
-    │   │   │   └── script.js
-    │   │   │
-    │   │   └── styles/
-    │   │       │
-    │   │       └── style.css
-    │   │
-    │   ├── Lab-3 (I)/
-    │   │   │
-    │   │   ├── COMSATS-University-logo.png
-    │   │   │
-    │   │   ├── index.html
-    │   │   │
-    │   │   └── style.css
-    │   │
-    │   ├── Lab-3 (II)/
-    │   │   │
-    │   │   ├── html/
-    │   │   │   │
-    │   │   │   └── lab-3.html
-    │   │   │
-    │   │   ├── Images/
-    │   │   │   │
-    │   │   │   ├── icons/
-    │   │   │   │   │
-    │   │   │   │   ├── Arrow Icon.png
-    │   │   │   │   │
-    │   │   │   │   ├── Chat.png
-    │   │   │   │   │
-    │   │   │   │   ├── Community.png
-    │   │   │   │   │
-    │   │   │   │   ├── Events.png
-    │   │   │   │   │
-    │   │   │   │   ├── favicon.icon
-    │   │   │   │   │
-    │   │   │   │   ├── Globe.png
-    │   │   │   │   │
-    │   │   │   │   ├── menu-button.png
-    │   │   │   │   │
-    │   │   │   │   ├── Mouse.png
-    │   │   │   │   │
-    │   │   │   │   ├── Post icon.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Chat.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Community.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Events.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Post.png
-    │   │   │   │   │
-    │   │   │   │   ├── Selected Story.png
-    │   │   │   │   │
-    │   │   │   │   ├── sidebar-close-button.svg
-    │   │   │   │   │
-    │   │   │   │   └── Story icon.png
-    │   │   │   │
-    │   │   │   └── noticons
-    │   │   │       │
-    │   │   │       ├── apple-button.svg
-    │   │   │       │
-    │   │   │       ├── apple-button-footer.svg
-    │   │   │       │
-    │   │   │       ├── apple-button-sidebar-footer.svg
-    │   │   │       │
-    │   │   │       ├── Avatar 16 1.png
-    │   │   │       │   
-    │   │   │       ├── Birthday.png
-    │   │   │       │
-    │   │   │       ├── Cafe.png
-    │   │   │       │
-    │   │   │       ├── Chat Images.png
-    │   │   │       │
-    │   │   │       ├── check-image-1.png
-    │   │   │       │
-    │   │   │       ├── check-image-3.icon
-    │   │   │       │
-    │   │   │       ├── check-image-4.png
-    │   │   │       │
-    │   │   │       ├── check-image-6.png
-    │   │   │       │
-    │   │   │       ├── check-image-7.png
-    │   │   │       │
-    │   │   │       ├── check-image-9.png
-    │   │   │       │
-    │   │   │       ├── check-image-10.png
-    │   │   │       │
-    │   │   │       ├── check-image-12.png
-    │   │   │       │
-    │   │   │       ├── check-image-13.png
-    │   │   │       │
-    │   │   │       ├── edyou-footer.svg
-    │   │   │       │
-    │   │   │       ├── edyou-main-heading.png
-    │   │   │       │
-    │   │   │       ├── edyou-sidebar.svg
-    │   │   │       │
-    │   │   │       ├── Group 357.png
-    │   │   │       │
-    │   │   │       ├── Group 493.png
-    │   │   │       │
-    │   │   │       ├── Group 494.png
-    │   │   │       │
-    │   │   │       ├── Group 495.png
-    │   │   │       │
-    │   │   │       ├── Group 497.png
-    │   │   │       │
-    │   │   │       ├── image 21.png
-    │   │   │       │
-    │   │   │       ├── image 22.png
-    │   │   │       │
-    │   │   │       ├── image 23.png
-    │   │   │       │
-    │   │   │       ├── line_home.png
-    │   │   │       │
-    │   │   │       ├── Mobile logo Style.png
-    │   │   │       │
-    │   │   │       ├── Post.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 163.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 165.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 167.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 168.png
-    │   │   │       │
-    │   │   │       ├── Rectangle 169.png
-    │   │   │       │
-    │   │   │       └── Story.png
-    │   │   │
-    │   │   ├── scripts/
-    │   │   │   │
-    │   │   │   └── script.js
-    │   │   │
-    │   │   └── styles/
-    │   │       │
-    │   │       └── style.css
-    │   │
-    │   └── Lab-4/
+    │       ├── Task 3/
+    │       │   │
+    │       │   ├── Faculty_Job_Application_Form_130415
+    │       │   │
+    │       │   ├── NON_faculty_job_application_form
+    │       │   │
+    │       │   ├── SP22-BCS-030(Assignment-3)
+    │       │   │
+    │       │   ├── unknown_2024.09.26-22.55
+    │       │   │
+    │       │   └── unknown_2024.09.26-22.57
     │       │
-    │       ├── index.html/
+    │       ├── Task 4/
+    │       │   │
+    │       │   ├── ~$22-BCS-030(Assignment-3)
+    │       │   │
+    │       │   ├── SP22-BCS-030(Lab Task - 4)
+    │       │   │
+    │       │   ├── task-4 (I)
+    │       │   │
+    │       │   ├── task-4 (II)
+    │       │   │
+    │       │   ├── unknown_2024.10.02-17.53
+    │       │   │
+    │       │   └── unknown_2024.10.02-17.57
     │       │
-    │       └── style.css/
+    │       ├── Task 5/
+    │       │   │
+    │       │   ├── Report/
+    │       │   │   │
+    │       │   │   ├── Snapshots/
+    │       │   │   │   │
+    │       │   │   │   ├── code/
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── about-us
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── bootstrap-css
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── bootstrap-js
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── cards
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── carousel-item
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── carousel-navigation-btn
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── carousel-nextprev-btn
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── comsats-icon
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── contact-us-form
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── events
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── footer
+    │       │   │   │   │   │
+    │       │   │   │   │   ├── header
+    │       │   │   │   │   │
+    │       │   │   │   │   └── icons-css
+    │       │   │   │   │
+    │       │   │   │   └── output/
+    │       │   │   │       │
+    │       │   │   │       ├── about-us-img
+    │       │   │   │       │
+    │       │   │   │       ├── card-img
+    │       │   │   │       │
+    │       │   │   │       ├── contact-us-img
+    │       │   │   │       │
+    │       │   │   │       ├── event-carousel-img
+    │       │   │   │       │
+    │       │   │   │       ├── footer-img
+    │       │   │   │       │
+    │       │   │   │       └── navbar-img
+    │       │   │   │
+    │       │   │   └── SP22-BCS-030(Lab Task - 5)
+    │       │   │
+    │       │   └── Source Code/
+    │       │       │
+    │       │       ├── Images/
+    │       │       │   │
+    │       │       │   ├── Among Us.jpg
+    │       │       │   │
+    │       │       │   ├── Blindfold.jpg
+    │       │       │   │
+    │       │       │   ├── Comecs Esports.jpg
+    │       │       │   │
+    │       │       │   ├── comsats-icon.ico
+    │       │       │   │
+    │       │       │   ├── COMSATS-WAH-About.jpg
+    │       │       │   │
+    │       │       │   ├── Ludo.jpg
+    │       │       │   │
+    │       │       │   ├── Minute to win it.jpg
+    │       │       │   │
+    │       │       │   ├── Musical Chair.jpg
+    │       │       │   │
+    │       │       │   ├── Paper Plane.jpg
+    │       │       │   │
+    │       │       │   └── Pet Show.jpg
+    │       │       │
+    │       │       ├── Lab-5.html
+    │       │       │
+    │       │       └── style.css
+    │       │
+    │       └── Task 6/
+    │           │
+    │           ├── Report/
+    │           │   │
+    │           │   ├── Snapshots/
+    │           │   │   │
+    │           │   │   ├── Task 6 (currency converter)/
+    │           │   │   │   │
+    │           │   │   │   ├── form-1.png
+    │           │   │   │   │
+    │           │   │   │   ├── form-2.png
+    │           │   │   │   │
+    │           │   │   │   ├── form-output.png
+    │           │   │   │   │
+    │           │   │   │   └── js.png
+    │           │   │   │
+    │           │   │   ├── Task 6 (form validation)/
+    │           │   │   │   │
+    │           │   │   │   ├── css.png
+    │           │   │   │   │
+    │           │   │   │   ├── form-1.png
+    │           │   │   │   │
+    │           │   │   │   ├── js.png
+    │           │   │   │   │
+    │           │   │   │   └── task-6 (form validation)
+    │           │   │   │
+    │           │   │   └── Task 6 (functional calculator)/
+    │           │   │       │
+    │           │   │       └── task-6 (functional calculator)
+    │           │   │
+    │           │   └── SP22-BCS-030(Lab Task - 6)
+    │           │
+    │           └── Source Code/
+    │               │
+    │               ├── Task 6 (currency converter)/
+    │               │   │
+    │               │   ├── favicon.ico
+    │               │   │
+    │               │   ├── Lab-6 (currency converter).html
+    │               │   │
+    │               │   ├── script.js
+    │               │   │
+    │               │   └── style.css
+    │               │
+    │               ├── Task 6 (form validation)/
+    │               │   │
+    │               │   ├── favicon.ico
+    │               │   │
+    │               │   ├── img.webp
+    │               │   │
+    │               │   ├── Lab-6 (form validation).html
+    │               │   │
+    │               │   ├── script.js
+    │               │   │
+    │               │   └── style.css
+    │               │
+    │               └── Task 6 (functional calculator)/
+    │                   │
+    │                   ├── favicon.ico
+    │                   │
+    │                   ├── Lab-6 (functional calculator).html
+    │                   │
+    │                   ├── script.js
+    │                   │
+    │                   └── style.css
     │    
     ├── Lectures/
     │   │
