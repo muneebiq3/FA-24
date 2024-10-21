@@ -98,29 +98,29 @@ FA-24/
 │   │   │   │
 │   │   │   └── Lab 4/
 │   │   │       │
-│   │   │       ├── Lab - 4  Task( SP22-BCS-030)
+│   │   │       ├── Lab - 4  Task( SP22-BCS-030).docx
 │   │   │       │
-│   │   │       └── Lab4_task
+│   │   │       └── Lab4_task.docx
 │   │   │
 │   │   └── Theory/
 │   │       │
 │   │       └── Assignment 1/
 │   │           │
-│   │           └── SP22-BCS-030(Assignment-1)
+│   │           └── SP22-BCS-030(Assignment-1).docx
 │   │
 │   ├── Lectures/
 │   │   │
-│   │   ├── lecture1
+│   │   ├── lecture1.pdf
 │   │   │
-│   │   ├── lecture2
+│   │   ├── lecture2.pdf
 │   │   │
-│   │   ├── lecture3
+│   │   ├── lecture3.pdf
 │   │   │
-│   │   └── lecture4
+│   │   └── lecture4.pdf
 │   │    
 │   └── Notes/
 │       │
-│       └── PDC-1
+│       └── PDC-1.pdf
 │
 ├── Theory of Automata/
 │   │
@@ -128,23 +128,31 @@ FA-24/
 │   │   │
 │   │   ├── Assignment 1/
 │   │   │   │
-│   │   │   ├── Assignment 1 obj
+│   │   │   ├── Assignment 1 obj.jpg
 │   │   │   │
-│   │   │   ├── page#1
+│   │   │   ├── page#1.jpg
 │   │   │   │
-│   │   │   ├── page#2
+│   │   │   ├── page#2.jpg
 │   │   │   │
-│   │   │   ├── page#3
+│   │   │   ├── page#3.jpg
 │   │   │   │
-│   │   │   └── page#4
+│   │   │   └── page#4.jpg
 │   │   │    
 │   │   └── Assignment 2/
 │   │       │
-│   │       └── Assignment 2 ( Theory of Automata)
+│   │       └── Assignment 2 ( Theory of Automata).pdf
 │   │
 │   ├── Lectures/
 │   │   │
-│   │   └── chp2
+│   │   ├── chp2.docx
+│   │   │
+│   │   ├── Lecture 7 Regular Expression lec.ppt
+│   │   │
+│   │   ├── Lecture 8 Finite Automata FA.ppt
+│   │   │
+│   │   ├── Lecture 10 Finite Automata FA.ppt
+│   │   │
+│   │   └── Lecture 11 Finite Automata FA.ppt
 │   │    
 │   ├── Notes/
 │   │   │
