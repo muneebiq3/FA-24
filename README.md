@@ -29,10 +29,34 @@ FA-24/
 │       └── FA-23 Final(5)
 │
 ├── Design and Analysis of Algorithms/
+│   │
+│   ├── Lectures/
+│   │   │
+│   │   ├── Lecture - 01 - Introduction to Algorithms.pdf
+│   │   │
+│   │   ├── Lecture - 02 - Fundamentals of Algorithmic Problem Solving.pdf
+│   │   │
+│   │   ├── Lecture - 03 - Computational Problems.pdf
+│   │   │
+│   │   ├── Lecture - 04 - Loop Invariant.pdf
+│   │   │
+│   │   ├── Lecture - 05 - Correctness of Recursive Algorithm.pdf
+│   │   │
+│   │   ├── Lecture - 06 - Time Complexity.pdf
+│   │   │
+│   │   ├── Lecture - 07 - Asymptotic Analysis - Part 1.pdf
+│   │   │
+│   │   ├── Lecture - 08 - Asymptotic Analysis - Part 2.pdf
+│   │   │
+│   │   ├── Lecture - 09 - Recurrence.pdf
+│   │   │
+│   │   ├── Lecture - 10 - Merge and Quick Sorts.pdf
+│   │   │
+│   │   └── Lecture - 11 - Randomized Quick Sort, Heap Sort.pdf
 │   │    
 │   └── Notes/
 │       │
-│       └── DAA-1
+│       └── DAA-1.pdf
 │
 ├── Information Security/
 │   │
@@ -40,31 +64,31 @@ FA-24/
 │   │   │
 │   │   ├── Assignment 1/
 │   │   │   │
-│   │   │   └── Information Security Assignment 1
+│   │   │   └── Information Security Assignment 1.pdf
 │   │   │    
 │   │   └── Assignment 2/
 │   │       │
-│   │       ├── 1
+│   │       ├── 1.jpg
 │   │       │
-│   │       ├── 2
+│   │       ├── 2.jpg
 │   │       │
-│   │       └── 3
+│   │       └── 3.jpg
 │   │
 │   ├── Lectures/
 │   │   │
-│   │   ├── IS chp 1
+│   │   ├── IS chp 1.pptx
 │   │   │
-│   │   └── Lecture-Slides-Week2-Website-Frontend-CSS
+│   │   └── Lecture-Slides-Week2-Website-Frontend-CSS.pdf
 │   │
 │   ├── Misc/
 │   │   │
-│   │   └── (ir)relevant
+│   │   └── (ir)relevant.jpg
 │   │    
 │   └── Notes/
 │       │
-│       ├── Info_security_book
+│       ├── Info_security_book.pdf
 │       │
-│       └── IS
+│       └── IS.pdf
 │
 ├── Parallel and Distributed Computing/
 │   │
