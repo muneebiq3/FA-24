@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <title>Form Validation</title>
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+            crossorigin="anonymous"
+        />
+        <link rel="icon" href="favicon.ico">
+
+        <style>
+            .form-control::placeholder {
+                color: white;
+            }
+
+        </style>
+
+    </head>
+
+    <body class="m-0 p-0">
+
+        <div class="container p-5">
+
+            <div class="row">
+
+               <form id="validation" class="m-auto row p-0 needs-validation" novalidate>
+
+                    <img src="img.webp" alt="Sample photo" class="img-fluid col-xl-6 d-none d-xl-block p-0" style="max-height: 90vh;"/>
+
+                    <div class="right-panel col-xl-6 col-12 p-5">
+
+                        <div class="row">
+
+                            <p class="display-6 text-uppercase text-white fw-bold ps-0">Student Registration Form</p>
+                            
+                        </div>
+
+                        <div class="row my-4">
+
+                            <div class="col-6 ps-0">
+
+                                <input type="text" placeholder="First Name" class="form-control text-white border" id="firstName" style="background-color: #424242;" required>
+                                <div class="invalid-feedback">First name must contain only letters and be at least 2 characters long.</div>
+
+                            </div>
+
+                            <div class="col-6 pe-0">
+
+                                <input type="text" placeholder="Last Name" class="form-control text-white border" id="lastName" style="background-color: #424242;" required>
+                                <div class="invalid-feedback">Last name must contain only letters and be at least 2 characters long.</div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="row my-4">
+
+                            <input type="text" placeholder="Address" class="form-control text-white border" id="address" style="background-color: #424242;" required>
+                            <div class="invalid-feedback">Please provide your address</div>
+
+                        </div>
+
+                        <div class="row my-4 d-flex justify-content-between radiobtn">
+
+                            <label class="form-label text-white h5 fw-bold ps-0">Gender:</label>
+
+                            <div class="col-3 d-flex align-items-center ps-0">
+
+                                <input type="radio" id="female" name="gender" value="female" style="background-color: #424242;" required>
+                                <label for="female" class="text-white h6 ms-2 mt-1">Female</label>
+
+                            </div>
+
+                            <div class="col-3 d-flex align-items-center ps-0">
+
+                                <input type="radio" id="male" name="gender" value="male" style="background-color: #424242;" required>
+                                <label for="male" class="text-white h6 ms-2 mt-1">Male</label>
+
+                            </div>
+
+                            <div class="col-3 d-flex align-items-center ps-0">
+
+                                <input type="radio" id="other" name="gender" value="other" style="background-color: #424242;" required>
+                                <label for="other" class="text-white h6 ms-2 mt-1">Other</label>
+
+                            </div>
+                            
+                        </div>
+
+                        <div class="row my-4">
+
+                            <select id="stateSelect" class="form-select text-white border" style="background-color: #424242;" required>
+
+                                <option value="" disabled selected>Choose...</option>
+                                <option value="balochistan">Balochistan</option>
+                                <option value="kpk">Khyber Pakhtunkhwa</option>
+                                <option value="punjab">Punjab</option>
+                                <option value="sindh">Sindh</option>
+                                <option value="islamabad">Islamabad</option>
+
+                            </select>
+
+                            <div class="invalid-feedback">Please select a valid state.</div>
+
+                        </div>
+
+                        <div class="row my-4">
+
+                            <select id="citySelect" class="form-select text-white border" style="background-color: #424242;" required>
+
+                                <option value="" disabled selected>City</option>
+
+                            </select>
+
+                            <div class="invalid-feedback">Please select a valid city.</div>
+
+                        </div>
+
+                        <div class="row my-4">
+
+                            <input type="password" class="form-control text-white border" id="pincode" placeholder="Pincode" style="background-color: #424242;" required>
+                            <div class="invalid-feedback">Please set the pincode</div>
+
+                        </div>
+
+                        <div class="row my-4">
+
+                            <input type="text" class="form-control text-white border" id="course" placeholder="Course" style="background-color: #424242;" required>
+                            <div class="invalid-feedback">Please describe the course</div>
+
+                        </div>
+
+                        <div class="row my-4">
+
+                            <input type="email" class="form-control text-white border placeholder-white" id="email" placeholder="Email ID" style="background-color: #424242;" required>
+                            <div class="invalid-feedback">Please provide the valid email</div>
+
+                        </div>
+
+                        <div class="row my-4">
+
+                            <div class="col-4"></div>
+
+                            <div class="col-8 d-flex justify-content-end">
+
+                                <button type="reset" class="btn btn-light me-2 mt-5">Reset All</button>
+                                <button type="submit" class="btn btn-warning text-white mt-5">Submit Form</button>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+        
+        <script
+            src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+            integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+            crossorigin="anonymous">
+        </script>
+
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+            integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+            crossorigin="anonymous">
+        </script>
+
+        <script src="script.js"></script>
+
+    </body>
+
+</html>

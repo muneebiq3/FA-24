@@ -1,0 +1,9 @@
+form{
+    background-color: #424242;
+}
+@media (max-width: 768px) {
+    .radiobtn {
+        display: flex;
+        flex-direction: column;
+    }
+}

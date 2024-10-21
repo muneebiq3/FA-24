@@ -1,0 +1,50 @@
+* {
+    background-color: #202020;
+}
+main {
+    height: 90vh;
+}
+main {
+    gap: 0.2%;
+}
+header {
+    height: 10%;
+}
+.constant {
+    height: 20%;
+}
+
+.header-left {
+    width: 30%;
+}
+
+a, i {
+    font-size: 3rem;
+}
+
+.second-btn-group, .third-btn-group, .fourth-btn-group, .fifth-btn-group , .sixth-btn-group , .seventh-btn-group  {
+    height: 6%;
+}
+
+.color-1, .color-2, .color-3 {
+    width: 24.7%;
+}
+.color-1 {
+    background-color: #3B3B3B;
+}
+.color-2 {
+    background-color: #323232;
+}
+.color-3 {
+    background-color: #7D8D96;
+    color: #202426;
+}
+.color-1:hover {
+    background-color: #323232;
+}
+.color-2:hover {
+    background-color: #3B3B3B;
+}
+.color-3:hover {
+    background-color: #73818A;
+}
