@@ -114,7 +114,9 @@ FA-24/
 │   │   │
 │   │   ├── lecture2
 │   │   │
-│   │   └── lecture3
+│   │   ├── lecture3
+│   │   │
+│   │   └── lecture4
 │   │    
 │   └── Notes/
 │       │
