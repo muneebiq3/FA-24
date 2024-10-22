@@ -390,6 +390,8 @@ FA-24/
     │
     ├── Misc/
     │   │
+    │   ├── CSC-336_WT Lab manualsp22_v3.1
+    │   │
     │   ├── CSC336_WT_CDF_Ver 3.2
     │   │
     │   └── Web Programming with HTML5, CSS, and JavaScript
