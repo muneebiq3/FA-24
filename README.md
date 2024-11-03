@@ -10,7 +10,49 @@ The repository is organized into folders for each course, with subdirectories fo
 ```
 FA-24/
 │
-├── Application Development/
+├── Mobile Application Development/
+│   │
+│   ├── Lectures/
+│   │   │
+│   │   ├── Code done in class/
+│   │   │   │
+│   │   │   ├── main.dart
+│   │   │   │
+│   │   │   └── Code/
+│   │   │       │
+│   │   │       ├── ButtonsDemo.dart
+│   │   │       │
+│   │   │       ├── dummyScreen.dart
+│   │   │       │
+│   │   │       ├── Functions.dart
+│   │   │       │
+│   │   │       ├── main.dart
+│   │   │       │
+│   │   │       ├── Person.dart
+│   │   │       │
+│   │   │       ├── productCard.dart
+│   │   │       │
+│   │   │       ├── ScreenThree.dart
+│   │   │       │
+│   │   │       ├── SecondScreen.dart
+│   │   │       │
+│   │   │       ├── testing.dart
+│   │   │       │
+│   │   │       └── TrendingProducts.dart
+│   │   │
+│   │   ├── Lab Task/
+│   │   │   │
+│   │   │   └── Lab task 1.png
+│   │   │
+│   │   ├── ButtonsDemo.dart
+│   │   │
+│   │   ├── GoogleFontsDemo.dart
+│   │   │
+│   │   ├── LoginForm.dart
+│   │   │
+│   │   ├── SetStateDemo.dart
+│   │   │
+│   │   └── TrendingProducts.dart
 │   │
 │   ├── Notes/
 │   │   │
