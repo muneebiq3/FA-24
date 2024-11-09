@@ -211,7 +211,9 @@ FA-24/
 │   │   │
 │   │   ├── Lecture 10 Finite Automata FA.ppt
 │   │   │
-│   │   └── Lecture 11 Finite Automata FA.ppt
+│   │   ├── Lecture 11 Finite Automata FA.ppt
+│   │   │
+│   │   └── Lecture 12 Non Deterministic  Finite Automata NFA.ppt
 │   │    
 │   ├── Notes/
 │   │   │
