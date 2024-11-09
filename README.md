@@ -449,12 +449,16 @@ FA-24/
     │   │
     │   └── Web Programming with HTML5, CSS, and JavaScript.pdf
     │    
-    └── Past Papers/
+    ├── Past Papers/
+    │   │
+    │   ├── FA-22 Final (1).jpg
+    │   │
+    │   ├── FA-22 Final (2).jpg
+    │   │
+    │   └── SP-22 Final (1).jpg
+    │
+    └── Semester Project/
         │
-        ├── FA-22 Final (1).jpg
-        │
-        ├── FA-22 Final (2).jpg
-        │
-        └── SP-22 Final (1).jpg
+        └── Semester Project Proposal (SP22-BCS-030)
 
 ```
