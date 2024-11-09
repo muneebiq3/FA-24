@@ -1,4 +1,3 @@
-
 # Semester Course Repository
 
 Welcome to the repository containing course content for FA-24! This repository is designed to organize and provide easy access to course materials.
@@ -9,6 +8,78 @@ The repository is organized into folders for each course, with subdirectories fo
 
 ```
 FA-24/
+│
+├── Design and Analysis of Algorithms/
+│   │
+│   ├── Lectures/
+│   │   │
+│   │   ├── Lecture - 01 - Introduction to Algorithms.pdf
+│   │   │
+│   │   ├── Lecture - 02 - Fundamentals of Algorithmic Problem Solving.pdf
+│   │   │
+│   │   ├── Lecture - 03 - Computational Problems.pdf
+│   │   │
+│   │   ├── Lecture - 04 - Loop Invariant.pdf
+│   │   │
+│   │   ├── Lecture - 05 - Correctness of Recursive Algorithm.pdf
+│   │   │
+│   │   ├── Lecture - 06 - Time Complexity.pdf
+│   │   │
+│   │   ├── Lecture - 07 - Asymptotic Analysis - Part 1.pdf
+│   │   │
+│   │   ├── Lecture - 08 - Asymptotic Analysis - Part 2.pdf
+│   │   │
+│   │   ├── Lecture - 09 - Recurrence.pdf
+│   │   │
+│   │   ├── Lecture - 10 - Merge and Quick Sorts.pdf
+│   │   │
+│   │   └── Lecture - 11 - Randomized Quick Sort, Heap Sort.pdf
+│   │    
+│   └── Notes/
+│       │
+│       └── Design and Analysis of Algorithms Notes.pdf
+│
+├── Information Security/
+│   │
+│   ├── Assignments/
+│   │   │
+│   │   ├── Assignment 1/
+│   │   │   │
+│   │   │   ├── A1-IS.pdf
+│   │   │   │
+│   │   │   └── Information Security Assignment 1.pdf
+│   │   │    
+│   │   └── Assignment 2/
+│   │       │
+│   │       ├── 1.jpg
+│   │       │
+│   │       ├── 2.jpg
+│   │       │
+│   │       ├── 3.jpg
+│   │       │
+│   │       └── A2-IS.pdf
+│   │
+│   ├── Lectures/
+│   │   │
+│   │   ├── IS chp 1.pptx
+│   │   │
+│   │   ├── IS chp 2.pptx
+│   │   │
+│   │   ├── IS chp 3.pptx
+│   │   │
+│   │   ├── IS chp 4.pptx
+│   │   │
+│   │   └── IS chp 5.pptx
+│   │
+│   ├── Misc/
+│   │   │
+│   │   └── (ir)relevant.jpg
+│   │    
+│   └── Notes/
+│       │
+│       ├── Info_security_book.pdf
+│       │
+│       └── Information Security Notes.pdf
 │
 ├── Mobile Application Development/
 │   │
@@ -56,91 +127,19 @@ FA-24/
 │   │
 │   ├── Notes/
 │   │   │
-│   │   └── Application-1
+│   │   └── Mobile Application Notes.pdf
 │   │    
 │   └── Past Papers/
 │       │
-│       ├── FA-23 Final(1)
+│       ├── FA-23 Final(1).jpg
 │       │
-│       ├── FA-23 Final(2)
+│       ├── FA-23 Final(2).jpg
 │       │
-│       ├── FA-23 Final(3)
+│       ├── FA-23 Final(3).jpg
 │       │
-│       ├── FA-23 Final(4)
+│       ├── FA-23 Final(4).jpg
 │       │
-│       └── FA-23 Final(5)
-│
-├── Design and Analysis of Algorithms/
-│   │
-│   ├── Lectures/
-│   │   │
-│   │   ├── Lecture - 01 - Introduction to Algorithms.pdf
-│   │   │
-│   │   ├── Lecture - 02 - Fundamentals of Algorithmic Problem Solving.pdf
-│   │   │
-│   │   ├── Lecture - 03 - Computational Problems.pdf
-│   │   │
-│   │   ├── Lecture - 04 - Loop Invariant.pdf
-│   │   │
-│   │   ├── Lecture - 05 - Correctness of Recursive Algorithm.pdf
-│   │   │
-│   │   ├── Lecture - 06 - Time Complexity.pdf
-│   │   │
-│   │   ├── Lecture - 07 - Asymptotic Analysis - Part 1.pdf
-│   │   │
-│   │   ├── Lecture - 08 - Asymptotic Analysis - Part 2.pdf
-│   │   │
-│   │   ├── Lecture - 09 - Recurrence.pdf
-│   │   │
-│   │   ├── Lecture - 10 - Merge and Quick Sorts.pdf
-│   │   │
-│   │   └── Lecture - 11 - Randomized Quick Sort, Heap Sort.pdf
-│   │    
-│   └── Notes/
-│       │
-│       └── DAA-1.pdf
-│
-├── Information Security/
-│   │
-│   ├── Assignments/
-│   │   │
-│   │   ├── Assignment 1/
-│   │   │   │
-│   │   │   ├── A1-IS.pdf
-│   │   │   │
-│   │   │   └── Information Security Assignment 1.pdf
-│   │   │    
-│   │   └── Assignment 2/
-│   │       │
-│   │       ├── 1.jpg
-│   │       │
-│   │       ├── 2.jpg
-│   │       │
-│   │       ├── 3.jpg
-│   │       │
-│   │       └── A2-IS.pdf
-│   │
-│   ├── Lectures/
-│   │   │
-│   │   ├── IS chp 1.pptx
-│   │   │
-│   │   ├── IS chp 2.pptx
-│   │   │
-│   │   ├── IS chp 3.pptx
-│   │   │
-│   │   ├── IS chp 5.pptx
-│   │   │
-│   │   └── Lecture-Slides-Week2-Website-Frontend-CSS.pdf
-│   │
-│   ├── Misc/
-│   │   │
-│   │   └── (ir)relevant.jpg
-│   │    
-│   └── Notes/
-│       │
-│       ├── Info_security_book.pdf
-│       │
-│       └── IS.pdf
+│       └── FA-23 Final(5).jpg
 │
 ├── Parallel and Distributed Computing/
 │   │
@@ -148,17 +147,25 @@ FA-24/
 │   │   │
 │   │   ├── Lab/
 │   │   │   │
-│   │   │   └── Lab 4/
+│   │   │   ├── Lab 4/
+│   │   │   │   │
+│   │   │   │   ├── Lab - 4  Task( SP22-BCS-030).docx
+│   │   │   │   │
+│   │   │   │   └── Lab4_task.docx
+│   │   │   │
+│   │   │   └── Lab 16/
 │   │   │       │
-│   │   │       ├── Lab - 4  Task( SP22-BCS-030).docx
-│   │   │       │
-│   │   │       └── Lab4_task.docx
+│   │   │       └── PDC LAB(SP22-BCS-030).docx
 │   │   │
 │   │   └── Theory/
 │   │       │
 │   │       └── Assignment 1/
+│   │       │   │
+│   │       │   └── SP22-BCS-030(Assignment-1).docx
+│   │       │
+│   │       └── Assignment 2/
 │   │           │
-│   │           └── SP22-BCS-030(Assignment-1).docx
+│   │           └── PDC Theory (SP22-BCS-030).docx
 │   │
 │   ├── Lectures/
 │   │   │
@@ -172,7 +179,7 @@ FA-24/
 │   │    
 │   └── Notes/
 │       │
-│       └── PDC-1.pdf
+│       └── Parallel and Distributed Computing Notes.pdf
 │
 ├── Theory of Automata/
 │   │
@@ -208,35 +215,35 @@ FA-24/
 │   │    
 │   ├── Notes/
 │   │   │
-│   │   ├── Automata-1
+│   │   ├── Theory of Automata Notes.pdf
 │   │   │
-│   │   └── Introduction To Computer Theory By Daniel I.A  Cohen 2nd Edition
+│   │   └── Introduction To Computer Theory By Daniel I.A  Cohen 2nd Edition.pdf
 │   │    
 │   └── Past Papers/
 │       │
-│       ├── FA-21 Final(1)
+│       ├── FA-21 Final(1).jpg
 │       │
-│       ├── FA-21 Mid(1)
+│       ├── FA-21 Mid(1).jpg
 │       │
-│       ├── FA-23 Final(1)
+│       ├── FA-23 Final(1).jpg
 │       │
-│       ├── FA-23 Final(2)
+│       ├── FA-23 Final(2).jpg
 │       │
-│       ├── SP-22 Final(1)
+│       ├── SP-22 Final(1).jpg
 │       │
-│       ├── SP-22 Final(2)
+│       ├── SP-22 Final(2).jpg
 │       │
-│       ├── SP-23 Final(1)
+│       ├── SP-23 Final(1).jpg
 │       │
-│       ├── SP-23 Final(2)
+│       ├── SP-23 Final(2).jpg
 │       │
-│       ├── SP-23 Mid
+│       ├── SP-23 Mid.jpg
 │       │
-│       ├── SP-24 Final(1)
+│       ├── SP-24 Final(1).jpg
 │       │
-│       ├── SP-24 Final(2)
+│       ├── SP-24 Final(2).jpg
 │       │
-│       └── SP-24 Mid
+│       └── SP-24 Mid.jpg
 │
 └── Web Technologies/
     │
@@ -246,37 +253,35 @@ FA-24/
     │       │
     │       ├── Task 1/
     │       │   │
-    │       │   └── SP22-BCS-030(Assignment-1)
+    │       │   └── SP22-BCS-030(Assignment-1).docx
     │       │
     │       ├── Task 2/
     │       │   │
-    │       │   └── SP22-BCS-030(Assignment-2)
+    │       │   └── SP22-BCS-030(Assignment-2).docx
     │       │
     │       ├── Task 3/
     │       │   │
-    │       │   ├── Faculty_Job_Application_Form_130415
+    │       │   ├── Faculty_Job_Application_Form_130415.pdf
     │       │   │
-    │       │   ├── NON_faculty_job_application_form
+    │       │   ├── NON_faculty_job_application_form.pdf
     │       │   │
-    │       │   ├── SP22-BCS-030(Assignment-3)
+    │       │   ├── SP22-BCS-030(Assignment-3).docx
     │       │   │
-    │       │   ├── unknown_2024.09.26-22.55
+    │       │   ├── unknown_2024.09.26-22.55.png
     │       │   │
-    │       │   └── unknown_2024.09.26-22.57
+    │       │   └── unknown_2024.09.26-22.57.png
     │       │
     │       ├── Task 4/
     │       │   │
-    │       │   ├── ~$22-BCS-030(Assignment-3)
+    │       │   ├── SP22-BCS-030(Lab Task - 4).docx
     │       │   │
-    │       │   ├── SP22-BCS-030(Lab Task - 4)
+    │       │   ├── task-4 (I).png
     │       │   │
-    │       │   ├── task-4 (I)
+    │       │   ├── task-4 (II).png
     │       │   │
-    │       │   ├── task-4 (II)
+    │       │   ├── unknown_2024.10.02-17.53.png
     │       │   │
-    │       │   ├── unknown_2024.10.02-17.53
-    │       │   │
-    │       │   └── unknown_2024.10.02-17.57
+    │       │   └── unknown_2024.10.02-17.57.png
     │       │
     │       ├── Task 5/
     │       │   │
@@ -286,47 +291,47 @@ FA-24/
     │       │   │   │   │
     │       │   │   │   ├── code/
     │       │   │   │   │   │
-    │       │   │   │   │   ├── about-us
+    │       │   │   │   │   ├── about-us.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── bootstrap-css
+    │       │   │   │   │   ├── bootstrap-css.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── bootstrap-js
+    │       │   │   │   │   ├── bootstrap-js.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── cards
+    │       │   │   │   │   ├── cards.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── carousel-item
+    │       │   │   │   │   ├── carousel-item.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── carousel-navigation-btn
+    │       │   │   │   │   ├── carousel-navigation-btn.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── carousel-nextprev-btn
+    │       │   │   │   │   ├── carousel-nextprev-btn.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── comsats-icon
+    │       │   │   │   │   ├── comsats-icon.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── contact-us-form
+    │       │   │   │   │   ├── contact-us-form.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── events
+    │       │   │   │   │   ├── events.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── footer
+    │       │   │   │   │   ├── footer.png
     │       │   │   │   │   │
-    │       │   │   │   │   ├── header
+    │       │   │   │   │   ├── header.png
     │       │   │   │   │   │
-    │       │   │   │   │   └── icons-css
+    │       │   │   │   │   └── icons-css.png
     │       │   │   │   │
     │       │   │   │   └── output/
     │       │   │   │       │
-    │       │   │   │       ├── about-us-img
+    │       │   │   │       ├── about-us-img.png
     │       │   │   │       │
-    │       │   │   │       ├── card-img
+    │       │   │   │       ├── card-img.png
     │       │   │   │       │
-    │       │   │   │       ├── contact-us-img
+    │       │   │   │       ├── contact-us-img.png
     │       │   │   │       │
-    │       │   │   │       ├── event-carousel-img
+    │       │   │   │       ├── event-carousel-img.png
     │       │   │   │       │
-    │       │   │   │       ├── footer-img
+    │       │   │   │       ├── footer-img.png
     │       │   │   │       │
-    │       │   │   │       └── navbar-img
+    │       │   │   │       └── navbar-img.png
     │       │   │   │
-    │       │   │   └── SP22-BCS-030(Lab Task - 5)
+    │       │   │   └── SP22-BCS-030(Lab Task - 5).docx
     │       │   │
     │       │   └── Source Code/
     │       │       │
@@ -380,13 +385,13 @@ FA-24/
     │           │   │   │   │
     │           │   │   │   ├── js.png
     │           │   │   │   │
-    │           │   │   │   └── task-6 (form validation)
+    │           │   │   │   └── task-6 (form validation).png
     │           │   │   │
     │           │   │   └── Task 6 (functional calculator)/
     │           │   │       │
-    │           │   │       └── task-6 (functional calculator)
+    │           │   │       └── task-6 (functional calculator).png
     │           │   │
-    │           │   └── SP22-BCS-030(Lab Task - 6)
+    │           │   └── SP22-BCS-030(Lab Task - 6).docx
     │           │
     │           └── Source Code/
     │               │
@@ -424,22 +429,28 @@ FA-24/
     │    
     ├── Lectures/
     │   │
-    │   ├── Lecture-Slides-Week1-Website-Frontend-HTML
+    │   ├── Lecture-Slides-Week1-Website-Frontend-HTML.pptx
     │   │
-    │   ├── Lecture-Slides-Week2-Website-Frontend-CSS
+    │   ├── Lecture-Slides-Week2-Website-Frontend-CSS.pdf
     │   │
-    │   └── Slides-Week3-Website-Frontend-CSS-Flexbox
+    │   └── Slides-Week3-Website-Frontend-CSS-Flexbox.pdf
     │
     ├── Misc/
     │   │
-    │   ├── CSC-336_WT Lab manualsp22_v3.1
+    │   ├── beginning-php-and-mysql.pdf
     │   │
-    │   ├── CSC336_WT_CDF_Ver 3.2
+    │   ├── CSC-336_WT Lab manualsp22_v3.1.pdf
     │   │
-    │   └── Web Programming with HTML5, CSS, and JavaScript
+    │   ├── CSC336_WT_CDF_Ver 3.2.pdf
+    │   │
+    │   └── Web Programming with HTML5, CSS, and JavaScript.pdf
     │    
     └── Past Papers/
         │
-        └── SP-22 Final(1)
+        ├── FA-22 Final (1).jpg
+        │
+        ├── FA-22 Final (2).jpg
+        │
+        └── SP-22 Final (1).jpg
 
 ```
