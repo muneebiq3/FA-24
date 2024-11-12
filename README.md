@@ -367,6 +367,8 @@ FA-24/
     │    
     ├── Lectures/
     │   │
+    │   ├── Laravel Introduction.pptx
+    │   │
     │   ├── Lecture-Slides-Week1-Website-Frontend-HTML.pptx
     │   │
     │   ├── Lecture-Slides-Week2-Website-Frontend-CSS.pdf
@@ -375,11 +377,17 @@ FA-24/
     │
     ├── Misc/
     │   │
+    │   ├── 01-Laravel-and-VS-Code-Full-Installation-30Mar23.pdf
+    │   │
+    │   ├── 02-Laravel-Tutorial-14Nov2020-Version01.pdf
+    │   │
     │   ├── beginning-php-and-mysql.pdf
     │   │
     │   ├── CSC-336_WT Lab manualsp22_v3.1.pdf
     │   │
     │   ├── CSC336_WT_CDF_Ver 3.2.pdf
+    │   │
+    │   ├── Laravel 11 CRUD Application.pdf
     │   │
     │   └── Web Programming with HTML5, CSS, and JavaScript.pdf
     │    
