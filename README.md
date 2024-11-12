@@ -205,6 +205,8 @@ FA-24/
 │   │   │
 │   │   ├── chp2.docx
 │   │   │
+│   │   ├── LEC 13 - 14 NFA to DFA.ppt
+│   │   │
 │   │   ├── Lecture 7 Regular Expression lec.ppt
 │   │   │
 │   │   ├── Lecture 8 Finite Automata FA.ppt
