@@ -175,7 +175,9 @@ FA-24/
 │   │   │
 │   │   ├── lecture3.pdf
 │   │   │
-│   │   └── lecture4.pdf
+│   │   ├── lecture4.pdf
+│   │   │
+│   │   └── lecture8.pdf
 │   │    
 │   └── Notes/
 │       │
