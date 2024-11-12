@@ -289,147 +289,81 @@ FA-24/
     │       │
     │       ├── Task 5/
     │       │   │
-    │       │   ├── Report/
-    │       │   │   │
-    │       │   │   ├── Snapshots/
+    │       │   ├── Snapshots/
+    │       │   │   │   
+    │       │   │   ├── code/
     │       │   │   │   │
-    │       │   │   │   ├── code/
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── about-us.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── bootstrap-css.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── bootstrap-js.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── cards.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── carousel-item.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── carousel-navigation-btn.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── carousel-nextprev-btn.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── comsats-icon.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── contact-us-form.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── events.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── footer.png
-    │       │   │   │   │   │
-    │       │   │   │   │   ├── header.png
-    │       │   │   │   │   │
-    │       │   │   │   │   └── icons-css.png
-    │       │   │   │   │
-    │       │   │   │   └── output/
-    │       │   │   │       │
-    │       │   │   │       ├── about-us-img.png
-    │       │   │   │       │
-    │       │   │   │       ├── card-img.png
-    │       │   │   │       │
-    │       │   │   │       ├── contact-us-img.png
-    │       │   │   │       │
-    │       │   │   │       ├── event-carousel-img.png
-    │       │   │   │       │
-    │       │   │   │       ├── footer-img.png
-    │       │   │   │       │
-    │       │   │   │       └── navbar-img.png
-    │       │   │   │
-    │       │   │   └── SP22-BCS-030(Lab Task - 5).docx
-    │       │   │
-    │       │   └── Source Code/
-    │       │       │
-    │       │       ├── Images/
-    │       │       │   │
-    │       │       │   ├── Among Us.jpg
-    │       │       │   │
-    │       │       │   ├── Blindfold.jpg
-    │       │       │   │
-    │       │       │   ├── Comecs Esports.jpg
-    │       │       │   │
-    │       │       │   ├── comsats-icon.ico
-    │       │       │   │
-    │       │       │   ├── COMSATS-WAH-About.jpg
-    │       │       │   │
-    │       │       │   ├── Ludo.jpg
-    │       │       │   │
-    │       │       │   ├── Minute to win it.jpg
-    │       │       │   │
-    │       │       │   ├── Musical Chair.jpg
-    │       │       │   │
-    │       │       │   ├── Paper Plane.jpg
-    │       │       │   │
-    │       │       │   └── Pet Show.jpg
-    │       │       │
-    │       │       ├── Lab-5.html
-    │       │       │
-    │       │       └── style.css
+    │       │   │   │   ├── about-us.png
+    │       │   │   │   │   
+    │       │   │   │   │── bootstrap-css.png
+    │       │   │   │   │   
+    │       │   │   │   ├── bootstrap-js.png
+    │       │   │   │   │   
+    │       │   │   │   ├── cards.png
+    │       │   │   │   │   
+    │       │   │   │   ├── carousel-item.png
+    │       │   │   │   │   
+    │       │   │   │   ├── carousel-navigation-btn.png
+    │       │   │   │   │   
+    │       │   │   │   ├── carousel-nextprev-btn.png
+    │       │   │   │   │   
+    │       │   │   │   ├── comsats-icon.png
+    │       │   │   │   │   
+    │       │   │   │   ├── contact-us-form.png
+    │       │   │   │   │   
+    │       │   │   │   ├── events.png
+    │       │   │   │   │   
+    │       │   │   │   ├── footer.png
+    │       │   │   │   │   
+    │       │   │   │   ├── header.png
+    │       │   │   │   │  
+    │       │   │   │   └── icons-css.png
+    │       │   │   │   
+    │       │   │   └── output/
+    │       │   │       │
+    │       │   │       ├── about-us-img.png
+    │       │   │       │
+    │       │   │       ├── card-img.png
+    │       │   │       │
+    │       │   │       ├── contact-us-img.png
+    │       │   │       │
+    │       │   │       ├── event-carousel-img.png
+    │       │   │       │
+    │       │   │       ├── footer-img.png
+    │       │   │       │
+    │       │   │       └── navbar-img.png
+    │       │   │    
+    │       │   └── SP22-BCS-030(Lab Task - 5).docx
     │       │
     │       └── Task 6/
     │           │
-    │           ├── Report/
+    │           ├── Snapshots/
     │           │   │
-    │           │   ├── Snapshots/
+    │           │   ├── Task 6 (currency converter)/
     │           │   │   │
-    │           │   │   ├── Task 6 (currency converter)/
-    │           │   │   │   │
-    │           │   │   │   ├── form-1.png
-    │           │   │   │   │
-    │           │   │   │   ├── form-2.png
-    │           │   │   │   │
-    │           │   │   │   ├── form-output.png
-    │           │   │   │   │
-    │           │   │   │   └── js.png
+    │           │   │   ├── form-1.png
     │           │   │   │
-    │           │   │   ├── Task 6 (form validation)/
-    │           │   │   │   │
-    │           │   │   │   ├── css.png
-    │           │   │   │   │
-    │           │   │   │   ├── form-1.png
-    │           │   │   │   │
-    │           │   │   │   ├── js.png
-    │           │   │   │   │
-    │           │   │   │   └── task-6 (form validation).png
+    │           │   │   ├── form-2.png
     │           │   │   │
-    │           │   │   └── Task 6 (functional calculator)/
-    │           │   │       │
-    │           │   │       └── task-6 (functional calculator).png
+    │           │   │   ├── form-output.png
+    │           │   │   │
+    │           │   │   └── js.png
     │           │   │
-    │           │   └── SP22-BCS-030(Lab Task - 6).docx
+    │           │   ├── Task 6 (form validation)/
+    │           │   │   │
+    │           │   │   ├── css.png
+    │           │   │   │
+    │           │   │   ├── form-1.png
+    │           │   │   │
+    │           │   │   ├── js.png
+    │           │   │   │
+    │           │   │   └── task-6 (form validation).png
+    │           │   │
+    │           │   └── Task 6 (functional calculator)/
+    │           │       │
+    │           │       └── task-6 (functional calculator).png
     │           │
-    │           └── Source Code/
-    │               │
-    │               ├── Task 6 (currency converter)/
-    │               │   │
-    │               │   ├── favicon.ico
-    │               │   │
-    │               │   ├── Lab-6 (currency converter).html
-    │               │   │
-    │               │   ├── script.js
-    │               │   │
-    │               │   └── style.css
-    │               │
-    │               ├── Task 6 (form validation)/
-    │               │   │
-    │               │   ├── favicon.ico
-    │               │   │
-    │               │   ├── img.webp
-    │               │   │
-    │               │   ├── Lab-6 (form validation).html
-    │               │   │
-    │               │   ├── script.js
-    │               │   │
-    │               │   └── style.css
-    │               │
-    │               └── Task 6 (functional calculator)/
-    │                   │
-    │                   ├── favicon.ico
-    │                   │
-    │                   ├── Lab-6 (functional calculator).html
-    │                   │
-    │                   ├── script.js
-    │                   │
-    │                   └── style.css
+    │           └── SP22-BCS-030(Lab Task - 6).docx
     │    
     ├── Lectures/
     │   │
